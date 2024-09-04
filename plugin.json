@@ -1,0 +1,12 @@
+{
+    "ID": "5F8E9A3C-D9A5-4E0E-B83E-9A7492870052",
+    "ActionKeyword": "ts",
+    "Name": "Unix Timestamp",
+    "Description": "Generate Unix timestamps in millisecond and nanosecond precision from human-readable dates or date math",
+    "Author": "Your Name",
+    "Version": "1.1.0",
+    "Language": "python",
+    "Website": "",
+    "IcoPath": "assets\\snippets.png",
+    "ExecuteFileName": "main.py"
+  }
