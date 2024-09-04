@@ -6,7 +6,7 @@
     "Author": "Your Name",
     "Version": "1.1.0",
     "Language": "python",
-    "Website": "",
+    "Website":"https://github.com/rendalu/unix-timestamps-flow-plugin",
     "IcoPath": "assets\\timestamp.png",
     "ExecuteFileName": "main.py"
   }
